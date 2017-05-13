@@ -8,6 +8,5 @@ public class shapes{
 			s[i]=gen.next();
 		for(shape shp:s)
 			shp.draw();
-		System.out.println("modify");
 	}
 }
